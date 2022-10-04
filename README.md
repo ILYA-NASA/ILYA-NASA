@@ -1,5 +1,6 @@
-Привет, я Илья!
-Учусь по направлениям: 
+Привет! 
+
+Я Илья, учусь по направлениям: 
 - Programmer и Product Manager в GeekBrains-University,  
 - Java Backend Developer в JetBrains-Academy. 
 
